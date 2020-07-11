@@ -11,7 +11,7 @@ import {
 import VoomsLogo from "../../assets/voomsgo-alt-logo.svg";
 import { ReactComponent as LuggageIcon } from "../../assets/luggage.svg";
 import { ReactComponent as DeliveryIcon } from "../../assets/delivery.svg";
-import "./navheader.scss";
+
 const NavHeader = (props) => {
   const [isOpen, setIsOpen] = useState(false);
 
