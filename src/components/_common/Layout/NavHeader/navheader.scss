@@ -1,0 +1,52 @@
+#navbar {
+  padding: 20px 0;
+
+  .navbar {
+    padding: 0.5rem 0;
+    .navbar-brand {
+      margin-right: 2rem;
+      img {
+        height: 35px;
+      }
+    }
+    .navbar-nav {
+      padding-left: 15px;
+      border-left: 1px solid rgba(0, 0, 0, 0.1);
+
+      .nav-link {
+        color: $text-color;
+        font-size: 14px;
+        margin-right: 10px;
+
+        .icon {
+          margin-right: 6px;
+          margin-top: -3px;
+        }
+
+        &.disabled {
+          opacity: 0.4;
+        }
+      }
+    }
+
+    .left-link {
+      a {
+        display: inline-block;
+        font-weight: 600;
+        font-size: 13.7px;
+        color: $text-color-alt;
+
+        &:hover {
+          //opacity: .6;
+          color: $pri-color;
+        }
+      }
+    }
+
+    &.navbar-light {
+      .navbar-nav .nav-link {
+        color: #fff;
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+<svg id="checkmark-box" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Rectangle_649" data-name="Rectangle 649" fill="#1795e2" stroke="#1795e2" stroke-width="1">
+    <rect width="20" height="20" rx="3" stroke="none"/>
+    <rect x="0.5" y="0.5" width="19" height="19" rx="2.5" fill="none"/>
+  </g>
+  <path id="checkmark" d="M7.787,13.913,5.36,11.483l-.86.82,3.287,3.28,7.034-7.028-.86-.82Z" transform="translate(0 -1.234)" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+</svg>

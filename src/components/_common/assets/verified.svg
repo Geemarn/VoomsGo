@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="verified" transform="translate(-306 -418)">
+    <g id="Ellipse_54" data-name="Ellipse 54" transform="translate(306 418)" fill="#3aaced" stroke="#fff" stroke-width="2">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9" fill="none"/>
+    </g>
+    <path id="Icon_metro-checkmark" data-name="Icon metro-checkmark" d="M9.581,5.784,5.687,9.679,3.869,7.861l-1.3,1.3,3.116,3.116L10.88,7.082Z" transform="translate(309.429 419.216)" fill="#fff"/>
+  </g>
+</svg>
